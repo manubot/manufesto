@@ -1,14 +1,14 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Daniel S. Himmelstein
 date-meta: '2019-10-11'
 keywords:
 - markdown
 - publishing
 - manubot
+- manifesto
 lang: en-US
-title: Manuscript Title
+title: 'The Manubot Manifesto: envisioning the future of scholarly publishing'
 ...
 
 
@@ -18,9 +18,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/a4cf72f7d1c7f75ee7b6ba6eba5d59659c0dcbc3/))
+([permalink](https://manubot.github.io/manufesto/v/e3a7cc984e01264dee9a9db899522dc27254b6af/))
 was automatically generated
-from [manubot/manufesto@a4cf72f](https://github.com/manubot/manufesto/tree/a4cf72f7d1c7f75ee7b6ba6eba5d59659c0dcbc3)
+from [manubot/manufesto@e3a7cc9](https://github.com/manubot/manufesto/tree/e3a7cc984e01264dee9a9db899522dc27254b6af)
 on October 11, 2019.
 </em></small>
 
@@ -28,25 +28,15 @@ on October 11, 2019.
 
 
 
-+ **John Doe**<br>
++ **Daniel S. Himmelstein**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [dhimmel](https://github.com/dhimmel)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [dhimmel](https://twitter.com/dhimmel)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia
   </small>
 
 

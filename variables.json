@@ -2,44 +2,24 @@
   "date": "October 11, 2019",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "github": "dhimmel",
+      "name": "Daniel S. Himmelstein",
+      "initials": "DSH",
+      "orcid": "0000-0002-3012-7446",
+      "twitter": "dhimmel",
+      "email": "daniel.himmelstein@gmail.com",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia"
       ],
-      "funders": "Grant XXXXXXXX",
       "affiliation_numbers": [
         1
-      ]
-    },
-    {
-      "github": "janeroe",
-      "name": "Jane Roe",
-      "initials": "JR",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "email": "jane.roe@whatever.edu",
-      "affiliations": [
-        "Department of Something, University of Whatever",
-        "Department of Whatever, University of Something"
-      ],
-      "affiliation_numbers": [
-        1,
-        2
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia",
       "affiliation_number": 1
-    },
-    {
-      "affiliation": "Department of Whatever, University of Something",
-      "affiliation_number": 2
     }
   ],
   "ci_source": {
@@ -47,11 +27,11 @@
     "repo_slug": "manubot/manufesto",
     "repo_owner": "manubot",
     "repo_name": "manufesto",
-    "commit": "a4cf72f7d1c7f75ee7b6ba6eba5d59659c0dcbc3",
-    "triggering_commit": "a4cf72f7d1c7f75ee7b6ba6eba5d59659c0dcbc3",
-    "build_url": "https://travis-ci.com/manubot/manufesto/builds/131592139",
-    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/244884358",
-    "manuscript_url": "https://manubot.github.io/manufesto/v/a4cf72f7d1c7f75ee7b6ba6eba5d59659c0dcbc3/"
+    "commit": "e3a7cc984e01264dee9a9db899522dc27254b6af",
+    "triggering_commit": "e3a7cc984e01264dee9a9db899522dc27254b6af",
+    "build_url": "https://travis-ci.com/manubot/manufesto/builds/131596835",
+    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/244895046",
+    "manuscript_url": "https://manubot.github.io/manufesto/v/e3a7cc984e01264dee9a9db899522dc27254b6af/"
   },
   "manuscript_stats": {
     "reference_counts": {
