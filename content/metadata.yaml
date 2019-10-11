@@ -1,27 +1,18 @@
 ---
-title: "Manuscript Title"
+title: "The Manubot Manifesto: envisioning the future of scholarly publishing"
 keywords:
   - markdown
   - publishing
   - manubot
+  - manifesto
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: dhimmel
+    name: Daniel S. Himmelstein
+    initials: DSH
+    orcid: 0000-0002-3012-7446
+    twitter: dhimmel
+    email: daniel.himmelstein@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia
