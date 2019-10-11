@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Manuscript source code for the "Manubot Manifesto"
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -10,8 +10,9 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+Welcome to the source code repository for the _Manufesto_ (i.e. Manubot Manifesto).
+This document lays out a vision for the future of scholarly publishing.
+Specifically, we attempt to define what features would define the ideal platform for authoring/publishing.
 
 ## Manubot
 
