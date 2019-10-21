@@ -12,7 +12,7 @@
 
 Welcome to the source code repository for the _Manufesto_ (i.e. Manubot Manifesto).
 This document lays out a vision for the future of scholarly publishing.
-Specifically, we attempt to define what features would define the ideal platform for authoring/publishing.
+Specifically, we attempt to define what features would define the ideal platform for authoring+publishing.
 
 ## Manubot
 
