@@ -39,8 +39,6 @@ pandoc --verbose \
   --bibliography="$BIBLIOGRAPHY_PATH" \
   --csl="$CSL_PATH" \
   --metadata link-citations=true \
-  --number-sections \
-  --base-header-level=2 \
   --include-after-body=build/themes/default.html \
   --include-after-body=build/plugins/table-scroll.html \
   --include-after-body=build/plugins/anchors.html \
