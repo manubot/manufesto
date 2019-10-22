@@ -1,5 +1,5 @@
 {
-  "date": "October 18, 2019",
+  "date": "October 22, 2019",
   "authors": [
     {
       "github": "dhimmel",
@@ -27,11 +27,11 @@
     "repo_slug": "manubot/manufesto",
     "repo_owner": "manubot",
     "repo_name": "manufesto",
-    "commit": "9f4fcbde070838d62186298e180ff0c53f10489b",
-    "triggering_commit": "9f4fcbde070838d62186298e180ff0c53f10489b",
-    "build_url": "https://travis-ci.com/manubot/manufesto/builds/132599425",
-    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/247289753",
-    "manuscript_url": "https://manubot.github.io/manufesto/v/9f4fcbde070838d62186298e180ff0c53f10489b/"
+    "commit": "d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6",
+    "triggering_commit": "d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6",
+    "build_url": "https://travis-ci.com/manubot/manufesto/builds/133019313",
+    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/248324500",
+    "manuscript_url": "https://manubot.github.io/manufesto/v/d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6/"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -39,6 +39,6 @@
       "url": 2,
       "total": 12
     },
-    "word_count": 3427
+    "word_count": 3516
   }
 }
