@@ -27,18 +27,18 @@
     "repo_slug": "manubot/manufesto",
     "repo_owner": "manubot",
     "repo_name": "manufesto",
-    "commit": "d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6",
-    "triggering_commit": "d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6",
-    "build_url": "https://travis-ci.com/manubot/manufesto/builds/133019313",
-    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/248324500",
-    "manuscript_url": "https://manubot.github.io/manufesto/v/d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6/"
+    "commit": "51b43e8b75396df406a6e845ae5928cdd3554853",
+    "triggering_commit": "51b43e8b75396df406a6e845ae5928cdd3554853",
+    "build_url": "https://travis-ci.com/manubot/manufesto/builds/133021959",
+    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/248330068",
+    "manuscript_url": "https://manubot.github.io/manufesto/v/51b43e8b75396df406a6e845ae5928cdd3554853/"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "doi": 10,
-      "url": 2,
-      "total": 12
+      "doi": 12,
+      "url": 3,
+      "total": 15
     },
-    "word_count": 3516
+    "word_count": 3609
   }
 }

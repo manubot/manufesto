@@ -18,9 +18,9 @@ title: 'The Manubot Manifesto: envisioning the future of scholarly publishing'
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6/))
+([permalink](https://manubot.github.io/manufesto/v/51b43e8b75396df406a6e845ae5928cdd3554853/))
 was automatically generated
-from [manubot/manufesto@d7aea3e](https://github.com/manubot/manufesto/tree/d7aea3e725e6027cb10dd3ab6dc0d59d8698e7b6)
+from [manubot/manufesto@51b43e8](https://github.com/manubot/manufesto/tree/51b43e8b75396df406a6e845ae5928cdd3554853)
 on October 22, 2019.
 </em></small>
 
@@ -82,10 +82,17 @@ The benefits of openly licensed scholarly literature are so immense that we shou
 ### Low cost
 
 **Authoring and publishing should be free of charge.**
-Currently, article processing charges (and/or subscription revenue) do not fund the intellectual contributions or creation of manuscripts.
+Article processing charges (APCs, and/or subscription revenue) do not fund the intellectual contributions or creation of manuscripts.
 Instead the revenue of publishers funds inefficient publishing platforms that can either be fully replaced by automation or the existing volunteer contributions of authors and reviewers.
-There will always be some cost for compute, hosting, and archiving of scholarly communication, but these should be in the range of dollars per article not thousands.
+Nonetheless, the cost of publishing continues to rise [@SktICFA9].
+There will always be some cost for compute, hosting, and archiving of scholarly communication, but these should be in the range of dollars per article not thousands [@18R6gqjc1].
 Futhermore, several providers currently offer these services for free to public projects.
+
+Journals do provide services that aren't entirely performed by unpaid volunteers.
+Examples include orchestrating peer review, performing copyediting, and helping disseminate and advertise an article.
+However, these services should not be a precondition to publication.
+Instead, they should be opt-in services that authors or funders solicit to improve a manuscript, establish its credibility, and expand its visibility.
+APCs could fall dramatically if publication were unbundled from the value-added services of journals, which could then be offered under à la carte pricing models [@dyi21la4].
 
 ### Libre infrastructure
 
