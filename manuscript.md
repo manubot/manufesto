@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Daniel S. Himmelstein
-date-meta: '2019-10-22'
+date-meta: '2019-11-02'
 keywords:
 - markdown
 - publishing
@@ -18,10 +18,10 @@ title: 'The Manubot Manifesto: envisioning the future of scholarly publishing'
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/51b43e8b75396df406a6e845ae5928cdd3554853/))
+([permalink](https://manubot.github.io/manufesto/v/f01c311416b46d869063d0be4041e0eb6a046b1b/))
 was automatically generated
-from [manubot/manufesto@51b43e8](https://github.com/manubot/manufesto/tree/51b43e8b75396df406a6e845ae5928cdd3554853)
-on October 22, 2019.
+from [manubot/manufesto@f01c311](https://github.com/manubot/manufesto/tree/f01c311416b46d869063d0be4041e0eb6a046b1b)
+on November 2, 2019.
 </em></small>
 
 ## Authors
@@ -96,7 +96,7 @@ APCs could fall dramatically if publication were unbundled from the value-added 
 
 ### Libre infrastructure
 
-**Authoring and publishing platforms should be open source and extensible.**
+**Authoring and publishing platforms should be open source and extensible** [@6rFhYdpo].
 Innovation in publishing will accelerate when end-users can make enhancements as they see fit.
 Empower authors with full control of their publishing platforms.
 Scholars who are discontent with the current publishing system should have a direct way to change it. Thanks to open licensing, open platforms are protected against discontinuation:
