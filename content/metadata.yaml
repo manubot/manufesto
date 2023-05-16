@@ -1,5 +1,6 @@
 ---
 title: "The Manubot Manifesto: envisioning the future of scholarly publishing"
+date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
   - publishing
