@@ -1,9 +1,8 @@
 # Manuscript source code for the "Manubot Manifesto"
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
-
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/rootstock/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/rootstock/manuscript.pdf)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/manufesto/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/manufesto/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/manubot/manufesto/workflows/Manubot/badge.svg)](https://github.com/manubot/manufesto/actions)
 
 ## Manuscript description
