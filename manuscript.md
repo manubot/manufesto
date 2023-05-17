@@ -1,14 +1,61 @@
 ---
-author-meta:
-- Daniel S. Himmelstein
-date-meta: '2019-11-02'
+title: 'The Manubot Manifesto: envisioning the future of scholarly publishing'
 keywords:
 - markdown
 - publishing
 - manubot
 - manifesto
 lang: en-US
-title: 'The Manubot Manifesto: envisioning the future of scholarly publishing'
+date-meta: '2023-05-17'
+author-meta:
+- Daniel S. Himmelstein
+header-includes: |
+  <!--
+  Manubot generated metadata rendered from header-includes-template.html.
+  Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
+  -->
+  <meta name="dc.format" content="text/html" />
+  <meta property="og:type" content="article" />
+  <meta name="dc.title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
+  <meta name="citation_title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
+  <meta property="og:title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
+  <meta property="twitter:title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
+  <meta name="dc.date" content="2023-05-17" />
+  <meta name="citation_publication_date" content="2023-05-17" />
+  <meta property="article:published_time" content="2023-05-17" />
+  <meta name="dc.modified" content="2023-05-17T02:43:34+00:00" />
+  <meta property="article:modified_time" content="2023-05-17T02:43:34+00:00" />
+  <meta name="dc.language" content="en-US" />
+  <meta name="citation_language" content="en-US" />
+  <meta name="dc.relation.ispartof" content="Manubot" />
+  <meta name="dc.publisher" content="Manubot" />
+  <meta name="citation_journal_title" content="Manubot" />
+  <meta name="citation_technical_report_institution" content="Manubot" />
+  <meta name="citation_author" content="Daniel S. Himmelstein" />
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia" />
+  <meta name="citation_author_orcid" content="0000-0002-3012-7446" />
+  <meta name="twitter:creator" content="@dhimmel" />
+  <link rel="canonical" href="https://manubot.github.io/manufesto/" />
+  <meta property="og:url" content="https://manubot.github.io/manufesto/" />
+  <meta property="twitter:url" content="https://manubot.github.io/manufesto/" />
+  <meta name="citation_fulltext_html_url" content="https://manubot.github.io/manufesto/" />
+  <meta name="citation_pdf_url" content="https://manubot.github.io/manufesto/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://manubot.github.io/manufesto/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/manuscript.pdf" />
+  <meta property="og:type" content="article" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
+  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
+  <meta name="theme-color" content="#ad1457" />
+  <!-- end Manubot generated metadata -->
+bibliography:
+- content/manual-references.json
+manubot-output-bibliography: output/references.json
+manubot-output-citekeys: output/citations.tsv
+manubot-requests-cache-path: ci/cache/requests-cache
+manubot-clear-requests-cache: false
 ...
 
 
@@ -18,27 +65,36 @@ title: 'The Manubot Manifesto: envisioning the future of scholarly publishing'
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/f01c311416b46d869063d0be4041e0eb6a046b1b/))
+([permalink](https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/))
 was automatically generated
-from [manubot/manufesto@f01c311](https://github.com/manubot/manufesto/tree/f01c311416b46d869063d0be4041e0eb6a046b1b)
-on November 2, 2019.
+from [manubot/manufesto@1b95dd6](https://github.com/manubot/manufesto/tree/1b95dd66b1590953b5947fb15aab91e26d80038e)
+on May 17, 2023.
 </em></small>
+
+
 
 ## Authors
 
 
 
-+ **Daniel S. Himmelstein**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **Daniel S. Himmelstein**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [dhimmel](https://github.com/dhimmel)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [dhimmel](https://twitter.com/dhimmel)<br>
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [dhimmel](https://twitter.com/dhimmel)
+    <br>
   <small>
      Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia
   </small>
 
+
+::: {#correspondence}
+✉ — Correspondence possible via [GitHub Issues](https://github.com/manubot/manufesto/issues)
+
+:::
 
 
 ## Abstract {.page_break_before}
@@ -54,7 +110,7 @@ The process by which scholarly articles are written, reviewed, and published aff
 Unfortunately, the process is outdated and, as such,
 predisposes research to be irreproducible, siloed, proprietary, poorly documented, and difficult to build upon.
 
-The internet combined with a growing toolset of open source infrastructure presents us with an opportunity to reinvent publishing [@1DiVJ3t6P; @9vdtIXfz].
+The internet combined with a growing toolset of open source infrastructure presents us with an opportunity to reinvent publishing [@doi:10.1515/9781400839452; @doi:10.1080/1047840X.2012.692215].
 But how?
 Here we envision the functionality and principles that would define an ideal publishing platform.
 We presuppose that infrastructure for scholarly authoring and publishing should be tightly integrated.
@@ -84,19 +140,19 @@ The benefits of openly licensed scholarly literature are so immense that we shou
 **Authoring and publishing should be free of charge.**
 Article processing charges (APCs, and/or subscription revenue) do not fund the intellectual contributions or creation of manuscripts.
 Instead the revenue of publishers funds inefficient publishing platforms that can either be fully replaced by automation or the existing volunteer contributions of authors and reviewers.
-Nonetheless, the cost of publishing continues to rise [@SktICFA9].
-There will always be some cost for compute, hosting, and archiving of scholarly communication, but these should be in the range of dollars per article not thousands [@18R6gqjc1].
+Nonetheless, the cost of publishing continues to rise [@doi:10.18352/lq.10280].
+There will always be some cost for compute, hosting, and archiving of scholarly communication, but these should be in the range of dollars per article not thousands [@url:https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal].
 Futhermore, several providers currently offer these services for free to public projects.
 
 Journals do provide services that aren't entirely performed by unpaid volunteers.
 Examples include orchestrating peer review, performing copyediting, and helping disseminate and advertise an article.
 However, these services should not be a precondition to publication.
 Instead, they should be opt-in services that authors or funders solicit to improve a manuscript, establish its credibility, and expand its visibility.
-APCs could fall dramatically if publication were unbundled from the value-added services of journals, which could then be offered under à la carte pricing models [@dyi21la4].
+APCs could fall dramatically if publication were unbundled from the value-added services of journals, which could then be offered under à la carte pricing models [@doi:10.7287/peerj.preprints.27809v1].
 
 ### Libre infrastructure
 
-**Authoring and publishing platforms should be open source and extensible** [@6rFhYdpo].
+**Authoring and publishing platforms should be open source and extensible** [@doi:10.1002/leap.1215].
 Innovation in publishing will accelerate when end-users can make enhancements as they see fit.
 Empower authors with full control of their publishing platforms.
 Scholars who are discontent with the current publishing system should have a direct way to change it. Thanks to open licensing, open platforms are protected against discontinuation:
@@ -117,10 +173,10 @@ Submit a pull request to fix the software that deposits the metadata, and fix no
 
 **Publishing should be instant.**
 Science can only advance as quickly as scientists can communicate.
-However, the publishing process currently imposes extreme delays, generally on the range of months to years, on scholarly communication [@MFEDhALN; @PZA0cOT1].
+However, the publishing process currently imposes extreme delays, generally on the range of months to years, on scholarly communication [@url:https://blog.dhimmel.com/history-of-delays/; @doi:10.1038/530148a].
 Therefore, all manuscripts should be self-published instantly.
 By accepting self-published articles for submission, preprint servers and journals will impose delays only on their distribution of an article, but not on the underlying availability of its content.
-Systems that support instant publication distangle publication from evaluation, an essential change to accelerate communication [@9vdtIXfz].
+Systems that support instant publication distangle publication from evaluation, an essential change to accelerate communication [@doi:10.1080/1047840X.2012.692215].
 
 ### Versioned publishing
 
@@ -159,7 +215,7 @@ just a new version with a note of who changed what and why!
 Presently, independent teams work in private to produce siloed and redundant research.
 Online writing in a public venue reduces the hurdles to contribute to existing projects, tipping the scales towards global collaboration rather than fragmentation.
 For some studies, community members may only contribute small enhancements, like fixing typos.
-Other studies, may become massively open online papers (MOOPs) where geographically dispersed experts co-investigate at scale [@16H8Gdlkx].
+Other studies, may become massively open online papers (MOOPs) where geographically dispersed experts co-investigate at scale [@doi:10.31222/osf.io/et8ak].
 
 Contributions proposed by the community should be reviewed by manuscript maintainers --- the individuals in charge of approving manuscript changes.
 Discussion and iterative refinement of the proposed change can proceed until the change is accepted. When community members provide substantive contributions, they should be offered formal coauthorship.
@@ -299,7 +355,7 @@ Authors should have the ability to **annotate citations with context**.
 The citation graph is increasingly being used to curate, rank, and classify scholarly literature.
 However, not all citations are equal:
 some dispute the cited work, some affirm it, most do neither.
-Authors should have the ability to specify why they cite a particular work, preferably assigning a citation type from a standardized terminology [@UXqEXKOT].
+Authors should have the ability to specify why they cite a particular work, preferably assigning a citation type from a standardized terminology [@doi:10.1016/j.websem.2012.08.001].
 
 ### Web-native interfaces
 
@@ -330,7 +386,7 @@ While web browsers are the primary way in which humans now access literature, ma
 With the explosion in the amount of literature produced, machines are crucial to helping scholars find the right literature as well as build knowledge graphs that aid human investigation by scaling storage beyond the capacity of the brain.
 Machine-readable manuscripts should conform to standards and expose as much metadata as possible.
 In addition, manuscripts must be publicly accessible and openly licensed to be included in pre-processed text mining corpuses.
-Currently, there are large benefits to fulltext mining [@DGlWGDEt], but legal barriers require each research team to redo preprocessing, an often insurmountable barrier at scale.
+Currently, there are large benefits to fulltext mining [@doi:10.1371/journal.pcbi.1005962], but legal barriers require each research team to redo preprocessing, an often insurmountable barrier at scale.
 
 ### Automate styling
 
@@ -340,19 +396,20 @@ Aspects such as line spacing, margins, font types and sizing are orthogonal to c
 Users should be able to transmit content (i.e. submitting to a journal or preprint server) without being burdened with formatting.
 Formatting can be automated.
 Publishing systems of the future will make it trivial to switch one style out for another style and for a journal to take a preprint and apply a branded style.
-Authors should have the ability to customize their style, but never should styling get in the way of producing and transmitting content [@ISRH1Pz2].
+Authors should have the ability to customize their style, but never should styling get in the way of producing and transmitting content [@doi:10.1371/journal.pone.0223116].
 
 ### Preserve & decentralize
 
 Once published, **manuscripts should be preserved using persistent file hosting on decentralized networks**.
 The preservation of the scholarly record is too important to leave to a single centralized entity.
 Instead articles should be hosted by decentralized file storage networks, which allow entities all around the world to participate in hosting scholarly content.
-Therefore, access to articles won’t shut off due to downtime or technical difficulties at the publisher’s site [@1PFYyBLC].
+Therefore, access to articles won’t shut off due to downtime or technical difficulties at the publisher’s site [@url:http://www.paywallwatch.com/].
 Censorship will be more difficult, both in terms of preventing certain groups from either consuming scholarly literature or producing it.
-For example, it will be less feasible for political sanctions to prevent a population from participating in global scholarship [@cWKgmoXZ; @dzUWx591; @19JOFNsW].
+For example, it will be less feasible for political sanctions to prevent a population from participating in global scholarship [@doi:10.1038/d41586-019-02795-y; @doi:10.1126/science.aay2091; @doi:10.1017/S1049096518002093].
 
 
 ## References {.page_break_before}
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
+

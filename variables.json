@@ -1,44 +1,72 @@
 {
-  "date": "November 2, 2019",
-  "authors": [
-    {
-      "github": "dhimmel",
-      "name": "Daniel S. Himmelstein",
-      "initials": "DSH",
-      "orcid": "0000-0002-3012-7446",
-      "twitter": "dhimmel",
-      "email": "daniel.himmelstein@gmail.com",
-      "affiliations": [
-        "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia"
-      ],
-      "affiliation_numbers": [
-        1
-      ]
-    }
-  ],
-  "affiliations": [
-    {
-      "affiliation": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia",
-      "affiliation_number": 1
-    }
-  ],
-  "ci_source": {
-    "provider": "travis",
-    "repo_slug": "manubot/manufesto",
-    "repo_owner": "manubot",
-    "repo_name": "manufesto",
-    "commit": "f01c311416b46d869063d0be4041e0eb6a046b1b",
-    "triggering_commit": "f01c311416b46d869063d0be4041e0eb6a046b1b",
-    "build_url": "https://travis-ci.com/manubot/manufesto/builds/134677557",
-    "job_url": "https://travis-ci.com/manubot/manufesto/jobs/252123888",
-    "manuscript_url": "https://manubot.github.io/manufesto/v/f01c311416b46d869063d0be4041e0eb6a046b1b/"
+  "pandoc": {
+    "title": "The Manubot Manifesto: envisioning the future of scholarly publishing",
+    "keywords": [
+      "markdown",
+      "publishing",
+      "manubot",
+      "manifesto"
+    ],
+    "lang": "en-US",
+    "date-meta": "2023-05-17",
+    "author-meta": [
+      "Daniel S. Himmelstein"
+    ],
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"The Manubot Manifesto: envisioning the future of scholarly publishing\" />\n<meta name=\"citation_title\" content=\"The Manubot Manifesto: envisioning the future of scholarly publishing\" />\n<meta property=\"og:title\" content=\"The Manubot Manifesto: envisioning the future of scholarly publishing\" />\n<meta property=\"twitter:title\" content=\"The Manubot Manifesto: envisioning the future of scholarly publishing\" />\n<meta name=\"dc.date\" content=\"2023-05-17\" />\n<meta name=\"citation_publication_date\" content=\"2023-05-17\" />\n<meta property=\"article:published_time\" content=\"2023-05-17\" />\n<meta name=\"dc.modified\" content=\"2023-05-17T02:43:34+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-05-17T02:43:34+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Daniel S. Himmelstein\" />\n<meta name=\"citation_author_institution\" content=\"Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3012-7446\" />\n<meta name=\"twitter:creator\" content=\"@dhimmel\" />\n<link rel=\"canonical\" href=\"https://manubot.github.io/manufesto/\" />\n<meta property=\"og:url\" content=\"https://manubot.github.io/manufesto/\" />\n<meta property=\"twitter:url\" content=\"https://manubot.github.io/manufesto/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://manubot.github.io/manufesto/\" />\n<meta name=\"citation_pdf_url\" content=\"https://manubot.github.io/manufesto/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://manubot.github.io/manufesto/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "bibliography": [
+      "content/manual-references.json"
+    ],
+    "manubot-output-bibliography": "output/references.json",
+    "manubot-output-citekeys": "output/citations.tsv",
+    "manubot-requests-cache-path": "ci/cache/requests-cache",
+    "manubot-clear-requests-cache": false
   },
-  "manuscript_stats": {
-    "reference_counts": {
-      "doi": 13,
-      "url": 3,
-      "total": 16
+  "manubot": {
+    "date": "2023-05-17",
+    "date_long": "May 17, 2023",
+    "generated": "2023-05-17T02:43:34+00:00",
+    "generated_date_long": "May 17, 2023",
+    "randomize_author_order": false,
+    "authors": [
+      {
+        "github": "dhimmel",
+        "name": "Daniel S. Himmelstein",
+        "initials": "DSH",
+        "orcid": "0000-0002-3012-7446",
+        "twitter": "dhimmel",
+        "email": "daniel.himmelstein@gmail.com",
+        "affiliations": [
+          "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      }
+    ],
+    "affiliations": [
+      {
+        "affiliation": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia",
+        "affiliation_number": 1
+      }
+    ],
+    "ci_source": {
+      "provider": "github",
+      "repo_slug": "manubot/manufesto",
+      "repo_owner": "manubot",
+      "repo_name": "manufesto",
+      "commit": "1b95dd66b1590953b5947fb15aab91e26d80038e",
+      "triggering_commit": "1b95dd66b1590953b5947fb15aab91e26d80038e",
+      "build_url": "https://github.com/manubot/manufesto/commit/1b95dd66b1590953b5947fb15aab91e26d80038e/checks",
+      "job_url": "https://github.com/manubot/manufesto/actions/runs/4998756570"
     },
-    "word_count": 3610
+    "html_url": "https://manubot.github.io/manufesto/",
+    "pdf_url": "https://manubot.github.io/manufesto/manuscript.pdf",
+    "html_url_versioned": "https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/",
+    "pdf_url_versioned": "https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/manuscript.pdf",
+    "manubot_version": "0.5.5",
+    "rootstock_commit": "72a96c90f2aab350de5e06f57587f654d5df1d6b",
+    "manuscript_stats": {
+      "word_count": 3770
+    }
   }
 }
