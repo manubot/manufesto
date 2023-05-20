@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2019-11-02" />
   <meta name="citation_publication_date" content="2019-11-02" />
   <meta property="article:published_time" content="2019-11-02" />
-  <meta name="dc.modified" content="2023-05-20T13:06:05+00:00" />
-  <meta property="article:modified_time" content="2023-05-20T13:06:05+00:00" />
+  <meta name="dc.modified" content="2023-05-20T18:22:05+00:00" />
+  <meta property="article:modified_time" content="2023-05-20T18:22:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/manufesto/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/manufesto/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/manufesto/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/1d51d549215f359f6f21ab115f4f5b3ab9a1dc76/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/1d51d549215f359f6f21ab115f4f5b3ab9a1dc76/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/1d51d549215f359f6f21ab115f4f5b3ab9a1dc76/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/))
+([permalink](https://manubot.github.io/manufesto/v/1d51d549215f359f6f21ab115f4f5b3ab9a1dc76/))
 was automatically generated
-from [manubot/manufesto@a4accc2](https://github.com/manubot/manufesto/tree/a4accc20da00eed79f7095a20cc083c57e25fc5d)
+from [manubot/manufesto@1d51d54](https://github.com/manubot/manufesto/tree/1d51d549215f359f6f21ab115f4f5b3ab9a1dc76)
 on May 20, 2023.
 </em></small>
 
@@ -404,7 +404,7 @@ Authors should have the ability to customize their style, but never should styli
 Once published, **manuscripts should be preserved using persistent file hosting on decentralized networks**.
 The preservation of the scholarly record is too important to leave to a single centralized entity.
 Instead articles should be hosted by decentralized file storage networks, which allow entities all around the world to participate in hosting scholarly content.
-Therefore, access to articles won’t shut off due to downtime or technical difficulties at the publisher’s site [@url:http://www.paywallwatch.com/].
+Therefore, access to articles won’t shut off due to downtime or technical difficulties at the publisher’s site [@url:http://www.paywallwatch.com].
 Censorship will be more difficult, both in terms of preventing certain groups from either consuming scholarly literature or producing it.
 For example, it will be less feasible for political sanctions to prevent a population from participating in global scholarship [@doi:10.1038/d41586-019-02795-y; @doi:10.1126/science.aay2091; @doi:10.1017/S1049096518002093].
 
