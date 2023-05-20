@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2019-11-02" />
   <meta name="citation_publication_date" content="2019-11-02" />
   <meta property="article:published_time" content="2019-11-02" />
-  <meta name="dc.modified" content="2023-05-20T13:02:45+00:00" />
-  <meta property="article:modified_time" content="2023-05-20T13:02:45+00:00" />
+  <meta name="dc.modified" content="2023-05-20T13:06:05+00:00" />
+  <meta property="article:modified_time" content="2023-05-20T13:06:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/manufesto/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/manufesto/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/manufesto/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/f0b39d8bc7383f5540de1bc22b412a68d292c17c/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/f0b39d8bc7383f5540de1bc22b412a68d292c17c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/f0b39d8bc7383f5540de1bc22b412a68d292c17c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -51,8 +51,7 @@ header-includes: |
   <meta name="theme-color" content="#ad1457" />
   <!-- end Manubot generated metadata -->
 bibliography:
-- content/manual-references-2023-05-20.yaml
-- content/manual-references.json
+- content/manual-references.yaml
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
@@ -66,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/f0b39d8bc7383f5540de1bc22b412a68d292c17c/))
+([permalink](https://manubot.github.io/manufesto/v/a4accc20da00eed79f7095a20cc083c57e25fc5d/))
 was automatically generated
-from [manubot/manufesto@f0b39d8](https://github.com/manubot/manufesto/tree/f0b39d8bc7383f5540de1bc22b412a68d292c17c)
+from [manubot/manufesto@a4accc2](https://github.com/manubot/manufesto/tree/a4accc20da00eed79f7095a20cc083c57e25fc5d)
 on May 20, 2023.
 </em></small>
 
