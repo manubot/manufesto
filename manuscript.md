@@ -6,7 +6,7 @@ keywords:
 - manubot
 - manifesto
 lang: en-US
-date-meta: '2023-05-17'
+date-meta: '2019-11-02'
 author-meta:
 - Daniel S. Himmelstein
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
   <meta property="og:title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
   <meta property="twitter:title" content="The Manubot Manifesto: envisioning the future of scholarly publishing" />
-  <meta name="dc.date" content="2023-05-17" />
-  <meta name="citation_publication_date" content="2023-05-17" />
-  <meta property="article:published_time" content="2023-05-17" />
-  <meta name="dc.modified" content="2023-05-17T02:43:34+00:00" />
-  <meta property="article:modified_time" content="2023-05-17T02:43:34+00:00" />
+  <meta name="dc.date" content="2019-11-02" />
+  <meta name="citation_publication_date" content="2019-11-02" />
+  <meta property="article:published_time" content="2019-11-02" />
+  <meta name="dc.modified" content="2023-05-20T12:47:22+00:00" />
+  <meta property="article:modified_time" content="2023-05-20T12:47:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/manufesto/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/manufesto/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/manufesto/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/manufesto/v/b8e0c73c27780d60b79ed3cd634e1ee64ee118cb/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/manufesto/v/b8e0c73c27780d60b79ed3cd634e1ee64ee118cb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/manufesto/v/b8e0c73c27780d60b79ed3cd634e1ee64ee118cb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,12 +65,13 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/manufesto/v/1b95dd66b1590953b5947fb15aab91e26d80038e/))
+([permalink](https://manubot.github.io/manufesto/v/b8e0c73c27780d60b79ed3cd634e1ee64ee118cb/))
 was automatically generated
-from [manubot/manufesto@1b95dd6](https://github.com/manubot/manufesto/tree/1b95dd66b1590953b5947fb15aab91e26d80038e)
-on May 17, 2023.
+from [manubot/manufesto@b8e0c73](https://github.com/manubot/manufesto/tree/b8e0c73c27780d60b79ed3cd634e1ee64ee118cb)
+on May 20, 2023.
 </em></small>
 
+Published: November 2, 2019
 
 
 ## Authors
